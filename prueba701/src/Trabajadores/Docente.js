@@ -14,7 +14,7 @@ const ListaDocentes = () => {
         const fetchData = async () => {
             try {
                 setLoading(true);
-                const response = await fetch('https://pablito.starcode.com.mx/api.php');
+                const response = await fetch('https://alex.starcode.com.mx/apiBD.php');
                 
                 if (!response.ok) {
                     throw new Error('Error en la solicitud');
