@@ -2,7 +2,7 @@
   "name": "prueba701",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AlejandroSP1/proyectitoIntegrador.git",
+  "homepage": "https://alejandrosp1.github.io/proyectitoIntegrador/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
